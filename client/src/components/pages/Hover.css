@@ -1,0 +1,14 @@
+.hover-container:hover {
+    transform: scale(1.05);
+    transition: .3s;
+  }
+
+.hover-container-b:hover {
+    transform: scale(1.03);
+    transition: .3s;
+}
+
+.hover-container-s:hover {
+    transform: scale(1.08);
+    transition: .3s;
+}
